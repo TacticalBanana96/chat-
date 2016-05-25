@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.chatbox{
+	position: fixed;
+	display:block;
+	margin-top:80%;
+}
+
+.messages{
+	display:inline-block;
+	margin:0px;
+}
